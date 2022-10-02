@@ -1,0 +1,33 @@
+{
+  "name": "server-uptime",
+  "version": "1.0.0",
+  "description": "Get the current server uptime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no testing data\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrDatastorage/server-uptime.git"
+  },
+  "keywords": [
+    "uptime",
+    "server-uptime",
+    "current-uptime",
+    "version"
+  ],
+  "author": {
+    "name": "Victor Nizeyimana",
+    "email": "me@mrclarify.com",
+    "url": "victor.js.org"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrDatastorage/server-uptime/issues"
+  },
+  "homepage": "https://github.com/MrDatastorage/server-uptime#readme",
+  "dependencies": {
+    "convert-seconds": "^1.0.1",
+    "os": "^0.1.1"
+  }
+}
